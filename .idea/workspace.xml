@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f25b5715-16cf-4484-9aa8-00362d16b374" name="Default Changelist" comment="" />
+    <list default="true" id="f25b5715-16cf-4484-9aa8-00362d16b374" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/js/jquery-3.4.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/startbootstrap-grayscale-gh-pages/assets/img/bg-masthead.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/startbootstrap-grayscale-gh-pages/assets/img/bg-signup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/startbootstrap-grayscale-gh-pages/assets/img/demo-image-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/startbootstrap-grayscale-gh-pages/assets/img/demo-image-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/startbootstrap-grayscale-gh-pages/assets/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/startbootstrap-grayscale-gh-pages/assets/img/ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/startbootstrap-grayscale-gh-pages/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/startbootstrap-grayscale-gh-pages/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/templates/cms/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/templates/cms/base2.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/base2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/templates/cms/todo_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/todo_edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/templates/cms/todo_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/todo_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +51,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="b2d613a1-198a-4ed8-85e9-55224025a94b" />
   <component name="ProjectId" id="1g79LMjuecXEjoxhnIQegjGxqxJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,11 +69,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cms/static/startbootstrap-grayscale-gh-pages" />
+      <recent name="$PROJECT_DIR$/cms" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/cms/static" />
       <recent name="$PROJECT_DIR$/cms/templates/cms/startbootstrap-grayscale-gh-pages" />
-      <recent name="$PROJECT_DIR$/cms/templates/cms" />
-      <recent name="$PROJECT_DIR$/cms/static/cms/startbootstrap-grayscale-gh-pages/css" />
-      <recent name="$PROJECT_DIR$/cms/static/cms/css" />
     </key>
   </component>
   <component name="RunManager">
@@ -43,7 +83,6 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="DJANGO_SETTINGS_MODULE" value="todo.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -70,7 +109,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597454711409</updated>
-      <workItem from="1597454713191" duration="17784000" />
+      <workItem from="1597454713191" duration="24045000" />
+      <workItem from="1597629612841" duration="1835000" />
     </task>
     <servers />
   </component>
@@ -78,38 +118,38 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="264" key="GridCell.Tab.0.bottom" timestamp="1597474605036">
+    <state width="1238" height="264" key="GridCell.Tab.0.bottom" timestamp="1597629587331">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="264" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1597474605036" />
-    <state width="1238" height="264" key="GridCell.Tab.0.center" timestamp="1597474605033">
+    <state width="1238" height="264" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1597629587331" />
+    <state width="1238" height="264" key="GridCell.Tab.0.center" timestamp="1597629587328">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="264" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1597474605033" />
-    <state width="1238" height="264" key="GridCell.Tab.0.left" timestamp="1597474605031">
+    <state width="1238" height="264" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1597629587328" />
+    <state width="1238" height="264" key="GridCell.Tab.0.left" timestamp="1597629587327">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="264" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1597474605031" />
-    <state width="1238" height="264" key="GridCell.Tab.0.right" timestamp="1597474605034">
+    <state width="1238" height="264" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1597629587327" />
+    <state width="1238" height="264" key="GridCell.Tab.0.right" timestamp="1597629587329">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="264" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1597474605034" />
-    <state width="1238" height="264" key="GridCell.Tab.1.bottom" timestamp="1597474605048">
+    <state width="1238" height="264" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1597629587329" />
+    <state width="1238" height="264" key="GridCell.Tab.1.bottom" timestamp="1597629587335">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="264" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1597474605048" />
-    <state width="1238" height="264" key="GridCell.Tab.1.center" timestamp="1597474605039">
+    <state width="1238" height="264" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1597629587335" />
+    <state width="1238" height="264" key="GridCell.Tab.1.center" timestamp="1597629587333">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="264" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1597474605039" />
-    <state width="1238" height="264" key="GridCell.Tab.1.left" timestamp="1597474605038">
+    <state width="1238" height="264" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1597629587333" />
+    <state width="1238" height="264" key="GridCell.Tab.1.left" timestamp="1597629587332">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="264" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1597474605038" />
-    <state width="1238" height="264" key="GridCell.Tab.1.right" timestamp="1597474605045">
+    <state width="1238" height="264" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1597629587332" />
+    <state width="1238" height="264" key="GridCell.Tab.1.right" timestamp="1597629587334">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="264" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1597474605045" />
+    <state width="1238" height="264" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1597629587334" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
