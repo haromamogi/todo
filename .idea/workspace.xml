@@ -19,18 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f25b5715-16cf-4484-9aa8-00362d16b374" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+    <list default="true" id="f25b5715-16cf-4484-9aa8-00362d16b374" name="Default Changelist" comment="login 完了">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/templates/cms/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/base4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/templates/cms/base2.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/base2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/templates/cms/todo_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/todo_edit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/templates/cms/todo_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/todo_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/templates/cms/top.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/top.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cms/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/cms/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,8 +100,17 @@
       <workItem from="1597454713191" duration="24045000" />
       <workItem from="1597629612841" duration="2019000" />
       <workItem from="1597650608932" duration="4362000" />
-      <workItem from="1597752935560" duration="10040000" />
+      <workItem from="1597752935560" duration="10122000" />
+      <workItem from="1597831810607" duration="362000" />
     </task>
+    <task id="LOCAL-00001" summary="login 完了">
+      <created>1597831752449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597831752449</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +127,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="login 完了" />
+    <option name="LAST_COMMIT_MESSAGE" value="login 完了" />
   </component>
   <component name="WindowStateProjectService">
     <state x="350" y="231" key="#Notifications" timestamp="1597831089278">
@@ -174,10 +177,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="243" height="457" key="HiddenNamespacesPopup/0.0.1280.800@0.0.1280.800" timestamp="1597754403747" />
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1597831717343">
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1597831763559">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1597831717343" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1597831763559" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
