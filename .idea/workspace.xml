@@ -1,42 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:heroku" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f25b5715-16cf-4484-9aa8-00362d16b374" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/js/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/js/bootstrap.bundle.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/js/bootstrap.bundle.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/js/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/js/bootstrap.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/js/jquery-3.4.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/startbootstrap-grayscale-gh-pages/assets/img/bg-masthead.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/startbootstrap-grayscale-gh-pages/assets/img/bg-signup.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/startbootstrap-grayscale-gh-pages/assets/img/demo-image-01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/startbootstrap-grayscale-gh-pages/assets/img/demo-image-02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/startbootstrap-grayscale-gh-pages/assets/img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/startbootstrap-grayscale-gh-pages/assets/img/ipad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/startbootstrap-grayscale-gh-pages/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/startbootstrap-grayscale-gh-pages/js/scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/templates/cms/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/templates/cms/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/base4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cms/templates/cms/base2.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/base2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cms/templates/cms/todo_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/todo_edit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cms/templates/cms/todo_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/todo_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/templates/cms/top.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/top.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cms/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/cms/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +40,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -64,16 +58,20 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/accounts/templates/accounts" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cms/templates/cms" />
+      <recent name="$PROJECT_DIR$/templates/allauth/account" />
+      <recent name="$PROJECT_DIR$/templates/allauth" />
       <recent name="$PROJECT_DIR$/cms/static/startbootstrap-grayscale-gh-pages" />
       <recent name="$PROJECT_DIR$/cms" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/cms/static" />
-      <recent name="$PROJECT_DIR$/cms/templates/cms/startbootstrap-grayscale-gh-pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/accounts/templates/accounts" />
     </key>
   </component>
   <component name="RunManager">
@@ -110,14 +108,36 @@
       <option name="presentableId" value="Default" />
       <updated>1597454711409</updated>
       <workItem from="1597454713191" duration="24045000" />
-      <workItem from="1597629612841" duration="1835000" />
+      <workItem from="1597629612841" duration="2019000" />
+      <workItem from="1597650608932" duration="4362000" />
+      <workItem from="1597752935560" duration="10040000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="350" y="231" key="#Notifications" timestamp="1597831089278">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="350" y="231" key="#Notifications/0.0.1280.800@0.0.1280.800" timestamp="1597831089278" />
+    <state x="513" y="304" key="Github.ShareDialog" timestamp="1597831060265">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="513" y="304" key="Github.ShareDialog/0.0.1280.800@0.0.1280.800" timestamp="1597831060265" />
     <state width="1238" height="264" key="GridCell.Tab.0.bottom" timestamp="1597629587331">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -150,6 +170,14 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="264" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1597629587334" />
+    <state width="243" height="457" key="HiddenNamespacesPopup" timestamp="1597754403747">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="243" height="457" key="HiddenNamespacesPopup/0.0.1280.800@0.0.1280.800" timestamp="1597754403747" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1597831717343">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1597831717343" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

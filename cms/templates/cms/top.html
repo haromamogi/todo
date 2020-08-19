@@ -1,4 +1,4 @@
-{% extends "cms/base2.html" %}
+{% extends "base.html" %}
 
 {% block title %}Todo!{% endblock title %}
 
@@ -7,7 +7,7 @@
                 <div class="mx-auto text-center">
                     <h1 class="mx-auto my-0 text-uppercase">Todoをはじめよう</h1>
                     <h2 class="text-white-50 mx-auto mt-2 mb-5">A free, responsive, one page Bootstrap theme created by Start Todos.</h2>
-                    <a class="btn btn-primary js-scroll-trigger" href="{% url 'cms:todo_list' %}">始める</a>
+                    <a class="btn btn-primary js-scroll-trigger" href="{% url 'account_login' %}">ログイン</a>
                 </div>
             </div>
 {% endblock content %}

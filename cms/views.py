@@ -8,6 +8,8 @@ from cms.forms import TodoForm
 def index(request):
     return render(request, 'cms/top.html')
 
+def profile(request):
+    return render(request, 'cms/profile.html')
 
 def todo_list(request):
     todos = Todo.objects.all().order_by('id')
