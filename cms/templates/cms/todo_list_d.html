@@ -24,7 +24,8 @@
 
           <td>
             <a href="{% url 'cms:todo_mod' todo_id=todo.id %}" class="btn btn-outline-primary btn-sm">修正</a>
-            <a href="{% url 'cms:todo' todo_id=todo.id %}" class="btn btn-outline-success btn-sm">ToDo</a>
+            <a href="{% url 'cms:todo_back' todo_id=todo.id %}" class="btn btn-outline-secondary btn-sm">戻す</a>
+            <a href="{% url 'cms:todo_del' todo_id=todo.id %}" class="btn btn-outline-danger btn-sm">削除</a>
           </td>
         </tr>
         {% endfor %}

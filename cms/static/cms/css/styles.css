@@ -540,6 +540,7 @@ pre code {
 }
 
 .container {
+  position: relative;
   width: 100%;
   padding-right: 0.75rem;
   padding-left: 0.75rem;
@@ -5571,7 +5572,7 @@ a.close.disabled {
 }
 .modal-dialog-centered.modal-dialog-scrollable {
   flex-direction: column;
-  justify-content: center;
+  jnavbar-brandustify-content: center;
   height: 100%;
 }
 .modal-dialog-centered.modal-dialog-scrollable .modal-content {
@@ -10223,7 +10224,7 @@ body {
 }
 
 .masthead {
-  position: relative;
+  position: static;
   width: 100%;
   height: auto;
   min-height: 35rem;
@@ -10256,8 +10257,8 @@ body {
 }
 @media (min-width: 992px) {
   .masthead {
-    height: 100vh;
-    padding: 0;
+    height: auto;
+    padding: 15rem;
   }
   .masthead h1 {
     font-size: 6.5rem;
@@ -10363,4 +10364,39 @@ body {
 
 .footer {
   padding: 5rem 0;
+}
+.modeselect {
+
+  display: inline-block;
+
+
+  color: #000000;
+  position: fixed;
+  top: 75px;
+
+  width: 100%;
+  height: fit-content;
+  /*min-height: 35rem;*/
+  /*padding: 15rem 0;*/
+  /*background: #dae0e5;*/
+
+}
+.todo {
+  float: left;
+
+  width: 33%; /* 要素の幅を50%に定義 */
+
+  /*background-color: #dae0e5; !* 視覚化のための背景色 *!*/
+}
+.todo-done {
+  float: left;
+
+  width: 33%;
+
+  /*background: #dae0e5;*/
+}
+.done {
+  float: right;
+  width: 33%;
+  /*background-color: #dae0e5;*/
 }
