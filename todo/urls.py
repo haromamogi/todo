@@ -16,6 +16,8 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from django.views.generic import TemplateView
+from django.contrib.staticfiles.urls import static
+from . import settings
 urlpatterns = [
 
     path('admin/', admin.site.urls),
@@ -23,4 +25,5 @@ urlpatterns = [
     path('', TemplateView.as_view(template_name='first.html'), name='home'),
     path('accounts/', include('allauth.urls')),
 ]
-
+if settings.DEBUG:
+    urlpatterns += static(settings.IMAGE_URL, document_root=settings.IMAGE_ROOT)

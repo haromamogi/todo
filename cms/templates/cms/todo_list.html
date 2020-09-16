@@ -19,7 +19,7 @@
         {% for todo in todos %}
         <tr>
           <th scope="row">{{ todo.id }}</th>
-          <td>{{ todo.duty }}</td>
+          <td><a href="{% url 'cms:todo_detail' todo_id=todo.id %}">{{ todo.duty }}</a></td>
           <td>{{ todo.limit }}</td>
 
           <td>

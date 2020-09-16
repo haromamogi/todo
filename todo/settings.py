@@ -170,3 +170,6 @@ AUTHENTICATION_BACKENDS = (
     "allauth.account.auth_backends.AuthenticationBackend",
 )
 
+
+IMAGE_ROOT = os.path.join(BASE_DIR, 'images')
+IMAGE_URL = '/images/'

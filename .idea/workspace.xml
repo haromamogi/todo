@@ -21,13 +21,14 @@
   <component name="ChangeListManager">
     <list default="true" id="f25b5715-16cf-4484-9aa8-00362d16b374" name="Default Changelist" comment="見た目ok">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/cms/static/cms/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/cms/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/cms/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/templates/cms/todo_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/todo_edit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cms/templates/cms/todo_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/todo_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cms/templates/cms/todo_list_d.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/todo_list_d.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cms/templates/cms/top.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/top.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cms/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cms/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cms/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/cms/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/allauth/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/allauth/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +118,7 @@
       <workItem from="1598492417575" duration="16412000" />
       <workItem from="1598961810183" duration="207000" />
       <workItem from="1599193952026" duration="3056000" />
-      <workItem from="1600149627130" duration="6619000" />
+      <workItem from="1600149627130" duration="11746000" />
     </task>
     <task id="LOCAL-00001" summary="login 完了">
       <created>1597831752449</created>

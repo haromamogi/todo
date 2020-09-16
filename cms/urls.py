@@ -17,4 +17,5 @@ urlpatterns = [
     path('todo/cpt/<int:todo_id>/', views.todo_complete, name="todo"),
 
     path('todo/back/<int:todo_id>/', views.todo_back, name="todo_back"),
+    path('todo/detail/<int:todo_id>/', views.todo_detail, name="todo_detail"),
 ]

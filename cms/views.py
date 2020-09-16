@@ -15,6 +15,11 @@ def profile(request):
     return render(request, 'cms/profile.html')
 
 
+def todo_detail(request, todo_id):
+    todo = get_object_or_404(Todo, pk=todo_id)
+    return render(request, 'cms/todo_detail.html', {'todo': todo})
+
+
 def paginate_queryset(request, queryset, count):
     """Pageオブジェクトを返す。
 
@@ -91,6 +96,7 @@ def todo_edit(request, todo_id=None):
         form = TodoForm(request.POST, instance=todo)
         if form.is_valid():
             todo = form.save(commit=False)
+            todo.image = request.FILES.get('image')
             todo.save()
             return redirect('cms:todo_list')
     else:

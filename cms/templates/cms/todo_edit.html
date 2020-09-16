@@ -8,7 +8,7 @@
     {% if todo_id %}
     <form action="{% url 'cms:todo_mod' todo_id=todo_id %}" method="post">
     {% else %}
-    <form action="{% url 'cms:todo_add' %}" method="post">
+    <form action="{% url 'cms:todo_add' %}" method="post" enctype="multipart/form-data">
     {% endif %}
       {% csrf_token %}
       {% bootstrap_form form layout='horizontal' %}

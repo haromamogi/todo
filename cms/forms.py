@@ -6,4 +6,4 @@ class TodoForm(ModelForm):
 
     class Meta:
         model = Todo
-        fields = ('duty', 'limit')
+        fields = ('duty', 'limit', 'image')
