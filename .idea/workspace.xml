@@ -19,8 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f25b5715-16cf-4484-9aa8-00362d16b374" name="Default Changelist" comment="login 完了">
+    <list default="true" id="f25b5715-16cf-4484-9aa8-00362d16b374" name="Default Changelist" comment="見た目ok">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/static/cms/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/cms/static/cms/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/templates/cms/todo_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/todo_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/templates/cms/todo_list_d.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/todo_list_d.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/templates/cms/top.html" beforeDir="false" afterPath="$PROJECT_DIR$/cms/templates/cms/top.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cms/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cms/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/cms/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/allauth/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/allauth/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +117,7 @@
       <workItem from="1598492417575" duration="16412000" />
       <workItem from="1598961810183" duration="207000" />
       <workItem from="1599193952026" duration="3056000" />
+      <workItem from="1600149627130" duration="6619000" />
     </task>
     <task id="LOCAL-00001" summary="login 完了">
       <created>1597831752449</created>
@@ -117,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597831752449</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="見た目ok">
+      <created>1600149666569</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600149666569</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +153,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="login 完了" />
-    <option name="LAST_COMMIT_MESSAGE" value="login 完了" />
+    <MESSAGE value="見た目ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="見た目ok" />
   </component>
   <component name="WindowStateProjectService">
     <state x="350" y="231" key="#Notifications" timestamp="1597831089278">
@@ -192,10 +209,14 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="491" y="320" key="VCS.ChangelistChooser/0.0.1280.800@0.0.1280.800" timestamp="1598343263673" />
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1597831763559">
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1600149672378">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1597831763559" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1600149672378" />
+    <state x="305" y="124" key="search.everywhere.popup" timestamp="1600158970974">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1600158970974" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

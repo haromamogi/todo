@@ -1,4 +1,5 @@
 from django.shortcuts import render, get_object_or_404, redirect
+from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from django.http import HttpResponseRedirect
 
 from cms.models import Todo
@@ -14,18 +15,54 @@ def profile(request):
     return render(request, 'cms/profile.html')
 
 
+def paginate_queryset(request, queryset, count):
+    """Pageオブジェクトを返す。
+
+    ページングしたい場合に利用してください。
+
+    countは、1ページに表示する件数です。
+    返却するPgaeオブジェクトは、以下のような感じで使えます。
+
+        {% if page_obj.has_previous %}
+          <a href="?page={{ page_obj.previous_page_number }}">Prev</a>
+        {% endif %}
+
+    また、page_obj.object_list で、count件数分の絞り込まれたquerysetが取得できます。
+
+    """
+    paginator = Paginator(queryset, count)
+    page = request.GET.get('page')
+    try:
+        page_obj = paginator.page(page)
+    except PageNotAnInteger:
+        page_obj = paginator.page(1)
+    except EmptyPage:
+        page_obj = paginator.page(paginator.num_pages)
+    return page_obj
+
+
 def todo_list(request):
     todos = Todo.objects.filter(existence=True).order_by('id')
+    page_obj = paginate_queryset(request, todos, 10)
+    context = {
+        'todos': page_obj.object_list,
+        'page_obj': page_obj,
+    }
     return render(request,
                   'cms/todo_list.html',
-                  {'todos': todos})
+                  context)
 
 
 def todo_list_done(request):
     todos = Todo.objects.filter(existence=False).order_by('id')
+    page_obj = paginate_queryset(request, todos, 10)
+    context = {
+        'todos': page_obj.object_list,
+        'page_obj': page_obj,
+    }
     return render(request,
                   'cms/todo_list_d.html',
-                  {'todos': todos})
+                  context)
 
 
 def todo_list_todo_done(request):

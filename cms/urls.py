@@ -1,11 +1,13 @@
 from django.urls import path
 from cms import views
+from django.contrib import admin
 
 
 app_name = 'cms'
 urlpatterns = [
     path('', views.index, name='index'),
     path('profile/', views.profile, name='profile'),
+
     path('todo/', views.todo_list, name='todo_list'),
     path('todo/done/', views.todo_list_done, name='todo_list_done'),
     path('todo/todo_done/', views.todo_list_todo_done, name='todo_list_todo_done'),

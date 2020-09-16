@@ -20,7 +20,7 @@ urlpatterns = [
 
     path('admin/', admin.site.urls),
     path('cms/', include('cms.urls')),
-    path('', TemplateView.as_view(template_name='base.html'), name='home'),
+    path('', TemplateView.as_view(template_name='first.html'), name='home'),
     path('accounts/', include('allauth.urls')),
 ]
 
